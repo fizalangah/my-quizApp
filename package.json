@@ -1,0 +1,22 @@
+{
+  "name": "fg-quiz-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "qapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/inquirer": "^9.0.7",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.17",
+    "node-fetch": "^3.3.2"
+  }
+}

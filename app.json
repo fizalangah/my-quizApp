@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "What is TypeScript?",
+        "options": [
+            "A superset of JavaScript",
+            "A JavaScript library",
+            "A server-side language",
+            "A markup language"
+        ],
+        "correctAnswer": "A superset of JavaScript"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is true about TypeScript?",
+        "options": [
+            "TypeScript code needs to be compiled",
+            "TypeScript code runs directly in the browser",
+            "TypeScript does not support static typing",
+            "TypeScript is used only for backend development"
+        ],
+        "correctAnswer": "TypeScript code needs to be compiled"
+    },
+    {
+        "id": 3,
+        "question": "What does 'tsconfig.json' file do in a TypeScript project?",
+        "options": [
+            "Defines TypeScript compiler options",
+            "Contains unit tests",
+            "Specifies database configuration",
+            "Configures browser settings"
+        ],
+        "correctAnswer": "Defines TypeScript compiler options"
+    },
+    {
+        "id": 4,
+        "question": "What is the purpose of TypeScript's 'interface'?",
+        "options": [
+            "To define the structure of an object",
+            "To create HTML elements",
+            "To define a new data type",
+            "To include external libraries"
+        ],
+        "correctAnswer": "To define the structure of an object"
+    },
+    {
+        "id": 5,
+        "question": "Which keyword is used to declare a variable with a specific data type in TypeScript?",
+        "options": [
+            "let",
+            "var",
+            "const",
+            "type"
+        ],
+        "correctAnswer": "type"
+    },
+    {
+        "id": 6,
+        "question": "What is the output of the following TypeScript code?\n\n```typescript\nlet x: number = 5;\nconsole.log(x + '5');\n```",
+        "options": [
+            "10",
+            "55",
+            "Error",
+            "TypeScript code cannot be executed directly"
+        ],
+        "correctAnswer": "55"
+    },
+    {
+        "id": 7,
+        "question": "Which TypeScript feature allows you to combine multiple types into one?",
+        "options": [
+            "Type assertions",
+            "Type alias",
+            "Type guards",
+            "Intersection types"
+        ],
+        "correctAnswer": "Intersection types"
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of 'readonly' keyword in TypeScript?",
+        "options": [
+            "To declare a constant",
+            "To define a class member that cannot be modified outside the class",
+            "To specify the type of a variable",
+            "To create a read-only file"
+        ],
+        "correctAnswer": "To define a class member that cannot be modified outside the class"
+    },
+    {
+        "id": 9,
+        "question": "What is the result of the following TypeScript expression?\n\n```typescript\nlet num: number = null;\nconsole.log(num);\n```",
+        "options": [
+            "0",
+            "null",
+            "undefined",
+            "Error"
+        ],
+        "correctAnswer": "null"
+    },
+    {
+        "id": 10,
+        "question": "What is the purpose of 'strictNullChecks' compiler option in TypeScript?",
+        "options": [
+            "To allow null values",
+            "To disable strict type checking",
+            "To enforce checking for null and undefined values",
+            "To enable debugging mode"
+        ],
+        "correctAnswer": "To enforce checking for null and undefined values"
+    }
+]
